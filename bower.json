@@ -1,0 +1,15 @@
+{
+    "name": "Box 2",
+    "description": "Box 2 Html 5 web application",
+    "version": "0.1.0",
+    "dependencies": {
+        "jquery": "*",
+        "bootstrap-sass": "*",
+        "angular": "1.2.*",
+        "angular-ui-router": "*",
+        "angular-ui-utils": "*"
+    },
+    "devDependencies": {
+        "jasmine": "*"
+    }
+}

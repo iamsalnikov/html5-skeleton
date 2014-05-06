@@ -1,0 +1,13 @@
+{
+    "name": "Box2",
+    "description": "Box 2 Html 5 web application",
+    "version": "0.1.0",
+
+    "devDependencies": {
+        "grunt": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-contrib-concat": "latest",
+        "grunt-contrib-sass": "latest"
+    }
+}
